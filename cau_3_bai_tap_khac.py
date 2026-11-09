@@ -1,5 +1,0 @@
-a=int(input("nhap so nguyen vao: "))
-if a%3==0 and a%5==0:
-    print(True)
-else:
-    print(False)
